@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:55:20.177019+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-12-11T22:45:53.100633+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -146,6 +146,20 @@
           "time_info": "04时31分"
         },
         {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 22时45分]"
+        },
+        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -170,19 +184,6 @@
           "time_info": "[02时41分 ~ 03时23分]"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 21时55分]"
-        },
-        {
           "title": "“特朗普黄金卡”开始接受申请",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
           "source": "百度热搜",
@@ -205,6 +206,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时43分 ~ 16时59分]"
+        },
+        {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 22时45分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -300,17 +313,6 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
-          "title": "特朗普为何突然搞“西半球优先”",
-          "url": "https://www.toutiao.com/trending/7581978972871917594/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
-        },
-        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -334,6 +336,17 @@
           "time_info": "[21时54分 ~ 21时55分]"
         },
         {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "关税重压下 美共和党议员为农业设备向特朗普求助",
           "url": "https://flash.jin10.com/detail/20251211091300561800",
           "source": "金十数据",
@@ -343,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "印度总理莫迪：与美国总统特朗普讨论了地区和国际局势的发展。",
+          "url": "https://wallstreetcn.com/livenews/3019280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -516,7 +540,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -631,6 +655,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "印度总理莫迪：与美国总统特朗普通话，讨论双边关系进展。",
+          "url": "https://flash.jin10.com/detail/20251211220429597800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "英国方面表示，美国总统特朗普与E3领导人认为乌克兰局势正处于“关键时刻”。",
           "url": "https://flash.jin10.com/detail/20251210234811152800",
           "source": "金十数据",
@@ -667,7 +702,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -689,8 +724,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时00分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[10时00分 ~ 22时45分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -716,6 +751,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时28分 ~ 07时23分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251211223658707800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
@@ -826,6 +872,17 @@
           "time_info": "[05时53分 ~ 06时25分]"
         },
         {
+          "title": "美股开盘，道指涨0.05%，标普500指数跌0.37%，纳指跌0.6%。业绩和指引均不及预期的甲骨文(ORCL.N)大跌14%拖累AI股票，英伟达(NVDA.O)跌2%，英特尔(INTC.O)跌1.9%，美光科技(MU.O)跌0.95%。",
+          "url": "https://flash.jin10.com/detail/20251211223024942800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
           "url": "https://flash.jin10.com/detail/20251211030239633800",
           "source": "金十数据",
@@ -837,13 +894,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3019275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
           "url": "https://flash.jin10.com/detail/20251211211225908800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -873,7 +941,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
@@ -957,6 +1025,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "据CNBC：迪士尼向谷歌发出停止侵权函。",
+          "url": "https://flash.jin10.com/detail/20251211221805294800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
           "url": "https://wallstreetcn.com/livenews/3018771",
           "source": "华尔街见闻-快讯",
@@ -971,8 +1050,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
+          "url": "https://flash.jin10.com/detail/20251211224007045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "迪士尼与OpenAI达成内容许可与投资协议",
+          "url": "https://wallstreetcn.com/livenews/3019279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
         {
           "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
           "url": "https://flash.jin10.com/detail/20251211064706062800",
@@ -1016,6 +1117,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "迪士尼向OpenAI投资10亿美元 旗下角色将登陆Sora",
+          "url": "https://flash.jin10.com/detail/20251211221733960800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251211220333965800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -1085,8 +1208,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时05分 ~ 21时55分]"
+          "appearance_count": 27,
+          "time_info": "[00时05分 ~ 22时45分]"
         }
       ]
     }
