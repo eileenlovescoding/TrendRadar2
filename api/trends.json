@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T22:45:53.100633+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2025-12-11T23:53:54.930871+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -113,6 +113,21 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 23时53分]"
+        },
+        {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
           "url": "https://flash.jin10.com/detail/20251211005314935800",
           "source": "金十数据",
@@ -144,20 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 22时45分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -218,6 +219,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时54分 ~ 22时45分]"
+        },
+        {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时53分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -336,17 +348,6 @@
           "time_info": "[21时54分 ~ 21时55分]"
         },
         {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "关税重压下 美共和党议员为农业设备向特朗普求助",
           "url": "https://flash.jin10.com/detail/20251211091300561800",
           "source": "金十数据",
@@ -364,7 +365,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -523,6 +524,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "泰国总理给特朗普“泼冷水”",
+          "url": "https://www.toutiao.com/trending/7582421562226655268/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
           "url": "https://flash.jin10.com/detail/20251211175449735800",
           "source": "金十数据",
@@ -661,7 +673,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -702,7 +714,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -724,8 +736,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时00分 ~ 22时45分]"
+          "appearance_count": 16,
+          "time_info": "[10时00分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -759,7 +771,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -878,7 +890,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -900,9 +912,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3019299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3019297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
@@ -940,9 +985,147 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：对迪士尼卡通人物的需求“高得离谱”。",
+          "url": "https://flash.jin10.com/detail/20251211234304426800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。",
+          "url": "https://wallstreetcn.com/livenews/3019318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
+          "url": "https://flash.jin10.com/detail/20251211224007045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "迪士尼CEO：与OpenAI的协议是一项“优质投资”。",
+          "url": "https://flash.jin10.com/detail/20251211233917398800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "迪士尼与OpenAI达成内容许可与投资协议",
+          "url": "https://wallstreetcn.com/livenews/3019279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
+          "url": "https://wallstreetcn.com/livenews/3018628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3018627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "迪士尼向OpenAI投资10亿美元 旗下角色将登陆Sora",
+          "url": "https://flash.jin10.com/detail/20251211221733960800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251211220333965800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "迪士尼CEO：我们一直与谷歌保持对话，主要表达我们对知识产权的担忧。",
+          "url": "https://flash.jin10.com/detail/20251211234219176800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
         {
           "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
           "url": "https://wallstreetcn.com/livenews/3018705",
@@ -1031,7 +1214,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1045,100 +1228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
-          "url": "https://flash.jin10.com/detail/20251211224007045800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "迪士尼与OpenAI达成内容许可与投资协议",
-          "url": "https://wallstreetcn.com/livenews/3019279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
-          "url": "https://flash.jin10.com/detail/20251211064706062800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
-          "url": "https://flash.jin10.com/detail/20251211040355307800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
-          "url": "https://wallstreetcn.com/livenews/3018628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3018627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "迪士尼向OpenAI投资10亿美元 旗下角色将登陆Sora",
-          "url": "https://flash.jin10.com/detail/20251211221733960800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251211220333965800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         }
       ]
     },
@@ -1205,11 +1294,12 @@
             7,
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时05分 ~ 22时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时05分 ~ 23时53分]"
         }
       ]
     }
