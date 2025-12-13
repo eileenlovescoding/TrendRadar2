@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-13T13:43:01.253766+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2025-12-13T14:55:40.828936+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认",
+          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
           "url": "https://news.ifeng.com/c/8p1vHCZebHh",
@@ -40,19 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 13时43分]"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火，泰方否认",
-          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 14时55分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -75,6 +75,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时55分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -100,6 +112,19 @@
           "time_info": "01时42分"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
+        {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
           "url": "https://flash.jin10.com/detail/20251213022744229800",
           "source": "金十数据",
@@ -113,15 +138,18 @@
           "time_info": "[02时58分 ~ 07时35分]"
         },
         {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
+          "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
-            2
+            3,
+            7,
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时55分]"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
@@ -149,29 +177,17 @@
           "time_info": "[02时58分 ~ 05时34分]"
         },
         {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时43分]"
-        },
-        {
-          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
-          "url": "https://flash.jin10.com/detail/20251213102355663800",
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
           "source": "金十数据",
           "ranks": [
-            3,
-            7,
+            4,
+            8,
             11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时43分]"
+          "time_info": "[12时49分 ~ 14时55分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -209,18 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 11时43分]"
-        },
-        {
-          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20251213111612295800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时43分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -394,6 +398,17 @@
           "time_info": "[13时42分 ~ 13时43分]"
         },
         {
+          "title": "爱泼斯坦案新影像曝光，有特朗普与6女子合照",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
           "url": "https://flash.jin10.com/detail/20251213000409005800",
           "source": "金十数据",
@@ -403,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "特朗普和爱泼斯坦照片公布",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%85%A7%E7%89%87%E5%85%AC%E5%B8%83%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "美国白宫人工智能和加密货币顾问萨克斯：（特朗普的人工智能行政令）旨在控制相互矛盾的州规则。",
@@ -472,11 +498,12 @@
           "ranks": [
             11,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 13时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 14时55分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -587,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时41分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[06时41分 ~ 14时55分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
