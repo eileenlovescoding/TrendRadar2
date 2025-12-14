@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:58:35.025126+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-12-14T13:42:03.924660+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -84,6 +84,17 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时42分]"
+        },
+        {
           "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
           "url": "https://flash.jin10.com/detail/20251213211438744800",
           "source": "金十数据",
@@ -112,17 +123,6 @@
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
-        },
-        {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -165,6 +165,28 @@
           "time_info": "[04时39分 ~ 07时34分]"
         },
         {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时42分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时42分]"
+        },
+        {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
           "url": "https://wallstreetcn.com/livenews/3020226",
           "source": "华尔街见闻-快讯",
@@ -176,17 +198,6 @@
           "time_info": "[00时48分 ~ 03时27分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
-        },
-        {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
@@ -194,8 +205,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时42分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -205,19 +216,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时42分]"
         },
         {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
+          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
+          "url": "https://wallstreetcn.com/livenews/3020317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时42分]"
         },
         {
           "title": "美士兵在叙遇袭身亡 特朗普：将报复",
@@ -231,25 +244,13 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
-          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
-          "url": "https://wallstreetcn.com/livenews/3020317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
-        },
-        {
           "title": "“特朗普避孕套”特写照片惹争议",
           "url": "https://www.toutiao.com/trending/7583258915845619753/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -260,7 +261,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -279,8 +280,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时42分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -301,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时42分]"
         }
       ]
     },
@@ -319,8 +320,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 12时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 13时42分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -345,11 +346,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时42分]"
         }
       ]
     }
