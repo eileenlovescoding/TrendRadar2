@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:30:16.460685+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2025-12-14T21:22:07.589536+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -119,6 +119,17 @@
           "time_info": "[11时56分 ~ 16时49分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 21时22分]"
+        },
+        {
           "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
           "url": "https://flash.jin10.com/detail/20251213211438744800",
           "source": "金十数据",
@@ -151,17 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时58分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
