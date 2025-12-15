@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T18:56:21.193344+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-12-15T19:37:26.643674+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时56分]"
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 19时37分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -84,8 +84,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时37分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -142,6 +142,28 @@
           "time_info": "17时58分"
         },
         {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 19时37分]"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时37分]"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -153,28 +175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时33分]"
-        },
-        {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时02分 ~ 18时56分]"
-        },
-        {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 18时56分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -205,7 +205,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -222,11 +222,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时56分]"
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 19时37分]"
         },
         {
           "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
@@ -238,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[15时02分 ~ 19时37分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
