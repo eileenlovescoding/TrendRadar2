@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T13:49:34.169383+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-12-16T15:01:55.053208+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -102,11 +102,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：将签署行政命令，将芬太尼列为“大规模杀伤性武器”。",
@@ -118,6 +119,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
@@ -167,31 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时39分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时49分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时49分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -474,6 +477,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
           "url": "https://flash.jin10.com/detail/20251216045447003800",
           "source": "金十数据",
@@ -571,8 +585,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时43分 ~ 13时49分]"
+          "appearance_count": 8,
+          "time_info": "[06时43分 ~ 15时01分]"
         },
         {
           "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
@@ -658,6 +672,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时36分]"
+        },
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -684,24 +727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时36分]"
         }
       ]
     },
