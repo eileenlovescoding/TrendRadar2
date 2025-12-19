@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T14:59:44.425084+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2025-12-19T15:39:57.650485+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -18,6 +18,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时39分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -42,29 +66,6 @@
           "time_info": "[11时50分 ~ 14时59分]"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时59分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时59分]"
-        },
-        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -74,11 +75,12 @@
             15,
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时49分 ~ 14时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时49分 ~ 15时39分]"
         },
         {
           "title": "特朗普，敢不敢动武？",
@@ -88,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时39分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -98,11 +100,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普将签署命令，重新归类大麻。 特朗普表示，大麻命令并非法律，此命令在任何形式上都不会合法化。 大麻股目前涨跌各异，ETF CNBS跌15.3%、MSOS跌14.2%、MJ跌8.1%，GrowGeneration跌7.7%，Tilray Brands跌0.1%，Agrify则涨3.7%，Canopy Growth涨4.9%，VFF涨5.1%。",
@@ -116,6 +119,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
           "url": "https://flash.jin10.com/detail/20251219035207198800",
           "source": "金十数据",
@@ -125,6 +139,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：在住房问题上关注国家紧急（措施）。 希望关心住房价值，并帮助人们购买房屋。",
@@ -225,19 +253,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时59分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 14时59分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -345,6 +360,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时39分]"
         },
         {
           "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
@@ -474,17 +501,6 @@
           "time_info": "04时39分"
         },
         {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
           "url": "https://flash.jin10.com/detail/20251219031834867800",
           "source": "金十数据",
@@ -527,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "特朗普喊话泽连斯基快点达成和平协议",
+          "url": "https://www.toutiao.com/trending/7584303302322569225/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美国总统特朗普：大麻行政命令绝不会以任何方式使大麻合法化。",
@@ -801,8 +828,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时39分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1144,7 +1171,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
@@ -1182,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时35分]"
+        },
+        {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "微软、谷歌等24家公司加入美国人工智能“创世纪计划”",
