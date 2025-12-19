@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T11:51:02.796078+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2025-12-19T13:01:05.723080+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -38,11 +38,12 @@
             18,
             17,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时49分 ~ 11时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时49分 ~ 13时01分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -63,19 +64,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://news.ifeng.com/c/8pCbX95hrxq",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
         },
         {
           "title": "美国总统特朗普将签署命令，重新归类大麻。 特朗普表示，大麻命令并非法律，此命令在任何形式上都不会合法化。 大麻股目前涨跌各异，ETF CNBS跌15.3%、MSOS跌14.2%、MJ跌8.1%，GrowGeneration跌7.7%，Tilray Brands跌0.1%，Agrify则涨3.7%，Canopy Growth涨4.9%，VFF涨5.1%。",
@@ -109,6 +111,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -213,26 +238,15 @@
           "time_info": "[02时59分 ~ 04时39分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普18分钟全国电视讲话说了什么",
+          "url": "https://www.toutiao.com/trending/7585366067095014931/",
+          "source": "今日头条",
           "ranks": [
-            6
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时00分]"
         },
         {
           "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
@@ -390,17 +404,6 @@
           "time_info": "[06时42分 ~ 07时35分]"
         },
         {
-          "title": "特朗普18分钟全国电视讲话说了什么",
-          "url": "https://www.toutiao.com/trending/7585366067095014931/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -421,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "白宫新闻秘书莱维特：肯尼迪中心将更名为特朗普-肯尼迪中心。",
@@ -621,6 +635,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3023559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "美国总统特朗普：正在考虑就住房问题宣布国家紧急状态。",
           "url": "https://flash.jin10.com/detail/20251219031203675800",
           "source": "金十数据",
@@ -737,8 +762,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 11时51分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 13时01分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -773,6 +798,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时42分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股收盘）",
@@ -820,17 +857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时00分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股盘中）",
@@ -985,6 +1011,19 @@
           "time_info": "[02时59分 ~ 03时29分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时01分]"
+        },
+        {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3023367",
           "source": "华尔街见闻-快讯",
@@ -1007,17 +1046,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时31分]"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
@@ -1231,7 +1259,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
