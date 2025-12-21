@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T16:50:38.493212+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-12-21T17:37:10.396576+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[12时58分 ~ 17时37分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -81,17 +81,29 @@
           "time_info": "[00时46分 ~ 07时33分]"
         },
         {
+          "title": "特朗普为何频繁起诉媒体",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E9%A2%91%E7%B9%81%E8%B5%B7%E8%AF%89%E5%AA%92%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
             3,
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时50分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 17时37分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -150,11 +162,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时50分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 17时37分]"
         },
         {
           "title": "特朗普称身处政坛看美女是死路一条",
@@ -185,7 +198,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         }
@@ -217,8 +230,24 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时45分 ~ 16时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时45分 ~ 17时37分]"
+        },
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            10,
+            11,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 17时37分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -233,21 +262,6 @@
           "time_info": "[00时45分 ~ 07时33分]"
         },
         {
-          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
-          "url": "https://flash.jin10.com/detail/20251221123146651800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            10,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 16时50分]"
-        },
-        {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
@@ -256,8 +270,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 17时37分]"
         }
       ]
     },
@@ -337,8 +351,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时56分 ~ 16时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时56分 ~ 17时37分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
