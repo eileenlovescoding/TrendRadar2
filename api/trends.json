@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T06:41:10.951972+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2025-12-22T07:35:09.512339+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -26,8 +26,49 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
+        },
+        {
+          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
+          "url": "https://wallstreetcn.com/articles/3761799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时35分 ~ 07时35分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
+          "url": "https://flash.jin10.com/detail/20251221222740005800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            16,
+            20,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "time_info": "[00时47分 ~ 07时35分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -56,30 +97,17 @@
           "time_info": "[00时47分 ~ 06时41分]"
         },
         {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            19,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
-          "url": "https://flash.jin10.com/detail/20251221222740005800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "time_info": "[02时53分 ~ 07时35分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -87,35 +115,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 06时41分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时35分 ~ 06时41分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
+            13,
+            23
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时53分 ~ 06时41分]"
+          "time_info": "[02时53分 ~ 07时35分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -135,11 +140,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时35分]"
         },
         {
           "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
@@ -147,11 +153,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时35分]"
         }
       ]
     },
@@ -166,11 +173,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -178,11 +186,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时53分 ~ 07时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
+        },
+        {
+          "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3024485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
@@ -198,8 +237,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
         }
       ]
     },
@@ -216,27 +255,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时35分]"
         }
       ]
     }
