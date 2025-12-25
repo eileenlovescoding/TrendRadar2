@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:01:39.920096+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-12-25T13:50:59.741427+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时50分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -196,8 +196,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 13时50分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -307,7 +307,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
