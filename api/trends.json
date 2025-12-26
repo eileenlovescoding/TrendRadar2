@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:52:49.367768+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-26T19:39:18.888392+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时51分 ~ 18时52分]"
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 19时39分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -177,8 +177,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时39分]"
         },
         {
           "title": "特朗普人事强震引爆新争议",
@@ -253,7 +253,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
