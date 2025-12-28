@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T12:15:19.507318+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-12-28T13:49:14.696803+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -78,13 +78,35 @@
           "time_info": "[00时54分 ~ 03时28分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "特朗普为美国带来了什么改变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -95,7 +117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -106,7 +128,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -117,7 +139,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
