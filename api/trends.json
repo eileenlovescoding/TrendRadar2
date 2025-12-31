@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:57:33.479864+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2025-12-31T17:47:49.681892+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,21 @@
           "time_info": "[00时56分 ~ 07时34分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            6,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 17时47分]"
+        },
+        {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
           "url": "https://wallstreetcn.com/articles/3762272",
           "source": "华尔街见闻",
@@ -64,20 +79,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 05时36分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 15时44分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
@@ -217,7 +218,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -271,8 +272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时34分 ~ 16时57分]"
+          "appearance_count": 10,
+          "time_info": "[07时34分 ~ 17时47分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
