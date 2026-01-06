@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:53:55.968045+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-01-06T19:34:33.262127+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 18时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 19时34分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -150,6 +150,20 @@
           "time_info": "[11时55分 ~ 18时53分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时03分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
           "url": "https://www.zhihu.com/question/1991570437310740440",
           "source": "知乎",
@@ -162,30 +176,18 @@
           "time_info": "[11时55分 ~ 17时53分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时53分]"
-        },
-        {
           "title": "格陵兰岛总理回应特朗普",
           "url": "https://www.douyin.com/hot/2358627",
           "source": "抖音",
           "ranks": [
             21,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 19时34分]"
         },
         {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
@@ -330,6 +332,18 @@
           "time_info": "[00时56分 ~ 03时01分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时34分]"
+        },
+        {
           "title": "丹麦首相警告特朗普涉格陵兰岛言论",
           "url": "https://www.toutiao.com/trending/7592114928259285042/",
           "source": "今日头条",
@@ -410,6 +424,17 @@
           "time_info": "[11时55分 ~ 11时56分]"
         },
         {
+          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普说美需要格陵兰岛 欧洲怎么想",
           "url": "https://www.toutiao.com/trending/7592021922519453234/",
           "source": "今日头条",
@@ -430,17 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 11时56分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "美国驻联合国特使：美国总统特朗普给了外交一个机会，他为马杜罗提供了多个退路，他试图缓和局势。",
@@ -597,17 +611,6 @@
           "time_info": "05时41分"
         },
         {
-          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
           "title": "据四位石油行业高管表示，无论是在马杜罗被捕之前还是之后，美国总统特朗普政府都未与埃克森、Conoco或雪佛龙就委内瑞拉问题进行过任何会谈。",
           "url": "https://flash.jin10.com/detail/20260106010915820800",
           "source": "金十数据",
@@ -636,7 +639,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -691,7 +694,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -742,8 +745,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时38分 ~ 18时53分]"
+          "appearance_count": 12,
+          "time_info": "[07时38分 ~ 19时34分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -921,11 +924,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 18时53分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 19时34分]"
         },
         {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
