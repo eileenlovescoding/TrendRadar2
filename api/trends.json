@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-07T17:54:58.129199+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-01-07T18:53:19.543405+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 18时53分]"
+        },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时00分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 17时54分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -85,6 +85,17 @@
           "time_info": "[13时04分 ~ 17时02分]"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 18时53分]"
+        },
+        {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
           "url": "https://www.cls.cn/detail/2249909",
           "source": "财联社热门",
@@ -134,17 +145,6 @@
           "time_info": "[15时02分 ~ 17时02分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 17时54分]"
-        },
-        {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
           "url": "https://www.cls.cn/detail/2249902",
           "source": "财联社热门",
@@ -166,6 +166,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时53分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 18时53分]"
         },
         {
           "title": "特朗普政策影响下，大众和奥迪在美销量暴跌",
@@ -192,29 +215,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时00分 ~ 05时40分]"
-        },
-        {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 17时54分]"
         },
         {
           "title": "市场消息：美国总统特朗普对众议院共和党人说，“如果我们输掉中期选举，我将被弹劾”。",
@@ -351,6 +351,17 @@
           "time_info": "[01时01分 ~ 01时50分]"
         },
         {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时53分]"
+        },
+        {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
           "url": "https://flash.jin10.com/detail/20260107060405066800",
           "source": "金十数据",
@@ -417,17 +428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "美国总统特朗普：还将与石油公司会面。",
@@ -529,6 +529,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "据白宫声明，美国总统特朗普已明确表示，获取格陵兰岛是“国家安全优先事项”。",
           "url": "https://flash.jin10.com/detail/20260107043656571800",
           "source": "金十数据",
@@ -568,7 +579,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -601,7 +612,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -637,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107180801342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "特朗普：医疗保险费太贵了。",
@@ -861,7 +883,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -905,7 +927,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
