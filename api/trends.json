@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:33:48.517720+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-01-14T15:25:11.774571+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 15时25分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 15时25分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -88,8 +88,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时46分 ~ 14时33分]"
+          "time_info": "[12时46分 ~ 15时25分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -136,19 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -294,6 +294,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -539,7 +551,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -572,7 +584,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -583,7 +595,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1072,17 +1084,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "特朗普演讲时突然模仿拜登",
-          "url": "https://www.toutiao.com/trending/7594003113268543524/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -1111,6 +1112,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 15时25分]"
+        },
+        {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
           "url": "https://www.cls.cn/detail/2256863",
           "source": "财联社热门",
@@ -1122,17 +1134,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时19分 ~ 14时33分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 14时33分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1274,11 +1275,12 @@
           "ranks": [
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1311,7 +1313,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         }
