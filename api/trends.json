@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:33:33.302495+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-01-15T15:25:23.979578+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[00时31分 ~ 04时21分]"
         },
         {
+          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
+          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时25分]"
+        },
+        {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
           "url": "https://news.ifeng.com/c/8puu58c2sSy",
           "source": "凤凰网",
@@ -43,17 +54,6 @@
           "time_info": "[05时21分 ~ 07时18分]"
         },
         {
-          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
-          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时33分]"
-        },
-        {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
           "url": "https://www.cls.cn/detail/2258166",
           "source": "财联社热门",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 15时25分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -75,8 +75,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 15时25分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时25分]"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -157,19 +171,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时26分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时33分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -917,7 +918,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -951,6 +952,17 @@
           "time_info": "[00时31分 ~ 07时18分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 15时25分]"
+        },
+        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -962,17 +974,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时32分 ~ 06时22分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 14时33分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -1190,11 +1191,12 @@
           "ranks": [
             12,
             15,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时25分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
