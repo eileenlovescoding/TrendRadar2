@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T09:41:55.801791+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-16T11:31:22.684975+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 80,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时31分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -47,9 +47,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时31分]"
+        },
+        {
+          "title": "她给特朗普献了份大礼，诺奖气坏了",
+          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -74,15 +96,15 @@
           "time_info": "07时21分"
         },
         {
-          "title": "她给特朗普献了份大礼，诺奖气坏了",
-          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
-          "source": "凤凰网",
+          "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260116112201338800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "11时31分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -256,6 +278,17 @@
           "time_info": "[06时21分 ~ 09时41分]"
         },
         {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时31分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
           "url": "https://wallstreetcn.com/livenews/3038171",
           "source": "华尔街见闻-快讯",
@@ -328,6 +361,17 @@
           "time_info": "[03时24分 ~ 04时25分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
           "url": "https://wallstreetcn.com/livenews/3038113",
           "source": "华尔街见闻-快讯",
@@ -338,6 +382,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "白宫称特朗普正密切关注伊朗局势 并保留所有选项",
+          "url": "https://www.cls.cn/detail/2259635",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "诺奖不得转赠但特朗普拿来吧你",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BA%E5%A5%96%E4%B8%8D%E5%BE%97%E8%BD%AC%E8%B5%A0%E4%BD%86%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%BF%E6%9D%A5%E5%90%A7%E4%BD%A0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -395,17 +461,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
           "url": "https://flash.jin10.com/detail/20260116024403158800",
           "source": "金十数据",
@@ -461,6 +516,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
+          "url": "https://wallstreetcn.com/livenews/3038420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
           "url": "https://flash.jin10.com/detail/20260116034814439800",
           "source": "金十数据",
@@ -511,7 +577,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -522,7 +588,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -566,9 +632,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3038415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "委内瑞拉反对派领袖马查多拒绝透露她是否已将诺贝尔和平奖献给特朗普。",
@@ -610,7 +687,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -703,6 +780,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "英媒：特朗普首笔委内瑞拉石油出售交易落入超级捐款人旗下公司",
+          "url": "https://flash.jin10.com/detail/20260116103848062800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "市场消息：美国参议院批准了一项小型支出法案，为商务部、司法部、内政部和能源部提供资金。该法案现已提交特朗普签署。投票结果为82票赞成，15票反对。",
           "url": "https://flash.jin10.com/detail/20260116052427534800",
           "source": "金十数据",
@@ -747,6 +835,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "俄回应特朗普对伊朗贸易伙伴加税",
+          "url": "https://wallstreetcn.com/livenews/3038398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://flash.jin10.com/detail/20260116022949055800",
           "source": "金十数据",
@@ -775,9 +874,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "马查多把诺贝尔和平奖颁给特朗普",
+          "url": "https://wallstreetcn.com/livenews/3038384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普及其团队已告知伊朗，若“杀戮”持续，将面临严重后果。",
@@ -797,7 +907,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -832,6 +942,17 @@
           "time_info": "[00时34分 ~ 06时21分]"
         },
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时31分]"
+        },
+        {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
@@ -845,28 +966,6 @@
           "time_info": "[03时23分 ~ 09时41分]"
         },
         {
-          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
@@ -876,8 +975,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 11时31分]"
+        },
+        {
+          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
@@ -1007,11 +1117,12 @@
             5,
             3,
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 11时31分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1065,7 +1176,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -1190,7 +1301,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
