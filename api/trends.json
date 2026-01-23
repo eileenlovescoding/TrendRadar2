@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T11:42:31.455478+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-01-23T12:42:19.691937+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 97,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时42分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时42分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时42分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时42分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -88,8 +88,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时42分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -164,6 +164,17 @@
           "time_info": "[01时28分 ~ 07时21分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时42分]"
+        },
+        {
           "title": "特朗普执政一年把美国推向何方",
           "url": "https://www.douyin.com/hot/2376099",
           "source": "抖音",
@@ -180,15 +191,15 @@
           "time_info": "[00时35分 ~ 07时21分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时42分]"
+          "time_info": "[11时42分 ~ 12时42分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -200,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -246,17 +268,6 @@
           "time_info": "09时41分"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
           "title": "特朗普痛批加州州长纽森失职，称其不配竞选总统",
           "url": "https://flash.jin10.com/detail/20260123092953807800",
           "source": "金十数据",
@@ -266,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -375,6 +375,19 @@
           "time_info": "[03时24分 ~ 04时27分]"
         },
         {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时42分]"
+        },
+        {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
           "url": "https://flash.jin10.com/detail/20260123060136553800",
           "source": "金十数据",
@@ -447,18 +460,6 @@
           "time_info": "[02时32分 ~ 03时24分]"
         },
         {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时42分]"
-        },
-        {
           "title": "特朗普吐槽北约盟友“不孝顺”",
           "url": "https://www.toutiao.com/trending/7597437551243018246/",
           "source": "今日头条",
@@ -504,6 +505,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普起诉美国最大银行",
+          "url": "https://www.douyin.com/hot/2376663",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
           "url": "https://wallstreetcn.com/articles/3763857",
           "source": "华尔街见闻",
@@ -543,7 +555,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -579,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -955,6 +978,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普启程返回华盛顿",
+          "url": "https://www.toutiao.com/trending/7597622481931337770/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "美国总统特朗普：我认为乌克兰总统泽连斯基和俄罗斯总统普京都想达成协议；我们很快就会知道。",
           "url": "https://flash.jin10.com/detail/20260123055141000800",
           "source": "金十数据",
@@ -1005,7 +1039,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1113,8 +1147,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时42分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
