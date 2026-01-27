@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T13:26:55.336046+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-01-27T14:34:51.028033+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -96,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
@@ -109,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时34分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -121,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -134,8 +134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "在美上市韩国ETF盘后暴跌超2%，特朗普宣布将针对韩国部分商品（含汽车）的关税从15%提高至25%。",
@@ -403,7 +403,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -527,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "美国总统特朗普：明尼苏达州州长蒂姆·沃尔兹致电我，请求在明尼苏达州问题上携手合作。这是一次非常棒的通话，而且我们实际上似乎心有灵犀。",
@@ -674,8 +685,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -686,8 +697,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时34分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -903,6 +914,67 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "报道称，OpenAI首席信息安全官奈特即将离职。",
+          "url": "https://wallstreetcn.com/livenews/3044468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
+          "url": "https://www.zhihu.com/question/1997009213193413444",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时34分]"
+        },
+        {
+          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
+          "url": "https://flash.jin10.com/detail/20260127000150023800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "OpenAI首席信息安全官宣布将离职",
+          "url": "https://flash.jin10.com/detail/20260127140630592800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "报道称，OpenAI副总裁奈特即将离职。",
+          "url": "https://wallstreetcn.com/livenews/3044468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -944,41 +1016,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "报道称，OpenAI首席信息安全官奈特即将离职。",
-          "url": "https://wallstreetcn.com/livenews/3044468",
+          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
+          "url": "https://wallstreetcn.com/livenews/3044481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
-          "url": "https://flash.jin10.com/detail/20260127000150023800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
-          "url": "https://www.zhihu.com/question/1997009213193413444",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "14时34分"
         }
       ]
     },
