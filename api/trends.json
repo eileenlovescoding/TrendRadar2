@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T15:39:52.911324+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-01-30T16:37:36.391662+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 88,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -26,11 +26,12 @@
           "url": "https://wallstreetcn.com/articles/3764534",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 16时37分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -43,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 16时37分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -66,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时37分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -77,8 +78,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时39分]"
+          "time_info": "[12时11分 ~ 16时37分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -90,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时39分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -145,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：（谈及联邦执法人员枪杀亚历克斯·普雷蒂事件）美国移民和海关执法局官员当时“冷静而沉着”。",
@@ -383,6 +384,18 @@
           "time_info": "[02时43分 ~ 04时29分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 16时37分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
           "source": "凤凰网",
@@ -562,15 +575,15 @@
           "time_info": "[02时43分 ~ 03时31分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
@@ -590,7 +603,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -656,7 +669,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -925,6 +938,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "乌克兰总统泽连斯基：（就停止对能源目标的打击表示）这是我们的倡议，也是特朗普总统的个人倡议，我们认为这是一个机会，而不是一项协议。",
+          "url": "https://flash.jin10.com/detail/20260130160443178800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "【特朗普：计划同伊朗对话，“希望”不动用武力】美国总统特朗普29日表示，他计划与伊朗进行对话，并称“希望”不动用武力。他在美国首都华盛顿对记者说：“我们现在有很多非常庞大、威力强大的舰船正驶向伊朗。如果我们最终不必动用它们，那将是极好的。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3046830",
           "source": "华尔街见闻-快讯",
@@ -1026,8 +1050,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时37分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
