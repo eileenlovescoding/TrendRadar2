@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:40:49.991453+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-02-03T18:39:21.254279+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -34,6 +34,30 @@
           "time_info": "[10时02分 ~ 16时36分]"
         },
         {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 18时39分]"
+        },
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时39分]"
+        },
+        {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
@@ -52,34 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时40分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时50分 ~ 17时40分]"
-        },
-        {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 18时39分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -219,6 +221,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203180904102800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
           "url": "https://flash.jin10.com/detail/20260203010335671800",
           "source": "金十数据",
@@ -324,7 +337,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -428,6 +441,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "克里姆林宫：（回应特朗普有关印度将停止购买俄罗斯石油的言论）我们与印度的战略伙伴关系至关重要。",
+          "url": "https://flash.jin10.com/detail/20260203174035758800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
           "url": "https://flash.jin10.com/detail/20260202231935079800",
           "source": "金十数据",
@@ -486,7 +510,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -497,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 17时40分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 18时39分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -579,11 +603,12 @@
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时39分]"
         },
         {
           "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
@@ -592,9 +617,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
+          "url": "https://flash.jin10.com/detail/20260203175702498800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
@@ -765,9 +801,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时39分]"
         }
       ]
     },
@@ -799,7 +835,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
