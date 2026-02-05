@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:55:51.678920+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-05T14:58:15.476877+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时58分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -67,8 +67,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时44分 ~ 14时58分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 14时58分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -84,15 +95,16 @@
           "time_info": "[00时45分 ~ 09时59分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时55分]"
+          "time_info": "[12时20分 ~ 14时58分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -115,18 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -444,8 +444,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 14时58分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -457,6 +457,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时58分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet电话会结束。",
@@ -508,18 +521,6 @@
           "time_info": "[05时32分 ~ 07时27分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时55分]"
-        },
-        {
           "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
           "url": "https://flash.jin10.com/detail/20260205050944063800",
           "source": "金十数据",
@@ -567,6 +568,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时27分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时58分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -663,17 +675,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
           "url": "https://flash.jin10.com/detail/20260205055948666800",
           "source": "金十数据",
@@ -762,8 +763,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时58分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
