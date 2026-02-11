@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:59:21.909094+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-02-11T16:58:30.702065+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时09分 ~ 07时38分]"
         },
         {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 16时58分]"
+        },
+        {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
@@ -30,15 +41,27 @@
           "time_info": "[00时09分 ~ 07时38分]"
         },
         {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
           "source": "凤凰网",
           "ranks": [
-            3
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 16时58分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 16时58分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -95,32 +118,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        },
-        {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时59分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时59分]"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -231,6 +231,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 15时00分]"
+        },
+        {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时58分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -458,17 +469,6 @@
           "time_info": "[07时37分 ~ 07时38分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
@@ -627,8 +627,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 16时58分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -667,6 +667,19 @@
           "time_info": "07时38分"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 16时58分]"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260211050700949800",
           "source": "金十数据",
@@ -677,18 +690,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 15时59分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
