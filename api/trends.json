@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:55:05.741940+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-02-11T19:44:26.276501+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 18时55分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 19时44分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 19时44分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -157,6 +157,19 @@
           "time_info": "00时10分"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 19时44分]"
+        },
+        {
           "title": "特朗普表面祝贺高市私下大发雷霆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -181,18 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时42分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
@@ -543,7 +544,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -590,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
@@ -647,11 +659,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 18时55分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 19时44分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -686,8 +699,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时02分 ~ 18时55分]"
+          "appearance_count": 10,
+          "time_info": "[13时02分 ~ 19时44分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -726,6 +739,18 @@
           "time_info": "07时38分"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时44分]"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260211050700949800",
           "source": "金十数据",
@@ -760,17 +785,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 15时00分]"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -1036,6 +1050,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
