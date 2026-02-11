@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-12T00:01:43.784402+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T01:14:52.226370+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
         {
           "title": "墨西哥比索触及日内低点，此前墨西哥总统辛鲍姆称，不认为特朗普会退出《美墨加协定》。",
           "url": "https://flash.jin10.com/detail/20260211233235538800",
@@ -30,26 +41,16 @@
           "time_info": "00时01分"
         },
         {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
           "url": "https://www.zhihu.com/question/2004862099634016476",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "国会山警告特朗普的财政路径不可持续",
@@ -94,6 +95,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
+          "url": "https://flash.jin10.com/detail/20260212002408203800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
+          "url": "https://flash.jin10.com/detail/20260212002128389800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     },
@@ -109,8 +132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -120,19 +143,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -142,8 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -153,8 +177,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         }
       ]
     },
@@ -167,11 +191,12 @@
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -181,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -192,8 +217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -203,8 +228,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
+          "url": "https://wallstreetcn.com/livenews/3053878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
         }
       ]
     }
