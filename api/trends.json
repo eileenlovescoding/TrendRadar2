@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:27:39.506169+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-02-15T23:24:54.489286+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 22时27分]"
+          "appearance_count": 10,
+          "time_info": "[17时30分 ~ 23时24分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时32分 ~ 22时27分]"
+          "appearance_count": 12,
+          "time_info": "[16时32分 ~ 23时24分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -137,11 +137,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -151,11 +152,12 @@
             2,
             7,
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 23时24分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -201,11 +203,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时24分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -244,6 +247,18 @@
           "time_info": "[17时30分 ~ 18时25分]"
         },
         {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时24分]"
+        },
+        {
           "title": "奥巴马回应被特朗普恶搞成猴",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -253,17 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -307,8 +311,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时06分 ~ 22时27分]"
+          "appearance_count": 19,
+          "time_info": "[10时06分 ~ 23时24分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -387,8 +391,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时24分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -443,11 +447,12 @@
           "url": "https://flash.jin10.com/detail/20260215215525567800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时24分]"
         }
       ]
     },
@@ -455,6 +460,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时24分]"
+        },
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
@@ -465,17 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
         }
       ]
     },
