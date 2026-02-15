@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T21:44:48.411423+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-02-15T22:27:39.506169+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时30分 ~ 21时44分]"
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 22时27分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时32分 ~ 21时44分]"
+          "appearance_count": 11,
+          "time_info": "[16时32分 ~ 22时27分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -136,22 +136,26 @@
           "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时27分]"
         },
         {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
           "ranks": [
-            3
+            2,
+            7,
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时27分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -181,19 +185,6 @@
           "time_info": "[19时21分 ~ 21时44分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时44分]"
-        },
-        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -203,6 +194,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 03时23分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
+          "url": "https://flash.jin10.com/detail/20260215211009575800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时27分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -252,6 +255,17 @@
           "time_info": "[17时30分 ~ 17时31分]"
         },
         {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
           "url": "https://flash.jin10.com/detail/20260215082816543800",
           "source": "金十数据",
@@ -289,11 +303,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时06分 ~ 21时44分]"
+          "appearance_count": 18,
+          "time_info": "[10时06分 ~ 22时27分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -372,8 +387,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 21时44分]"
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -387,6 +402,52 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时30分 ~ 19时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 22时27分]"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时23分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -412,43 +473,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10,
-            11,
-            12
-          ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 21时44分]"
-        },
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时27分]"
         }
       ]
     },
