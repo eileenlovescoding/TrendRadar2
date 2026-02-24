@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:03:49.494615+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-24T22:49:23.247546+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -55,6 +55,17 @@
           "time_info": "[10时00分 ~ 15时07分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -81,17 +92,6 @@
           "time_info": "[10时00分 ~ 15时07分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 21时03分]"
-        },
-        {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
           "url": "https://www.cls.cn/detail/2293557",
           "source": "财联社热门",
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 21时03分]"
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 22时49分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -130,6 +130,21 @@
           "time_info": "[07时46分 ~ 12时34分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
           "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
@@ -144,6 +159,18 @@
           "time_info": "[15时07分 ~ 21时03分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
           "source": "澎湃新闻",
@@ -155,17 +182,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时00分 ~ 13时59分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 21时03分]"
         },
         {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
@@ -202,20 +218,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时58分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 21时03分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
@@ -737,6 +739,17 @@
           "time_info": "16时45分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://wallstreetcn.com/livenews/3058164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
           "url": "https://flash.jin10.com/detail/20260224123615325800",
           "source": "金十数据",
@@ -779,12 +792,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -795,8 +819,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时00分 ~ 21时03分]"
+          "appearance_count": 14,
+          "time_info": "[10时00分 ~ 22时49分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -809,8 +833,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时00分 ~ 21时03分]"
+          "appearance_count": 14,
+          "time_info": "[10时00分 ~ 22时49分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -894,7 +918,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -921,6 +945,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 06时40分]"
+        },
+        {
+          "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
@@ -999,7 +1034,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1010,7 +1045,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1032,9 +1067,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -1046,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
@@ -1098,7 +1155,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1139,7 +1196,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1154,6 +1211,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时52分 ~ 19时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌表示，ProdureAI将加入谷歌实验室。",
+          "url": "https://flash.jin10.com/detail/20260224221205836800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1201,11 +1275,12 @@
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时49分]"
         }
       ]
     }
