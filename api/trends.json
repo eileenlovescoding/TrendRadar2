@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:17:08.814766+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-25T04:40:44.412720+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,41 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
-        },
-        {
-          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
-          "url": "https://flash.jin10.com/detail/20260225033807828800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
-          "url": "https://flash.jin10.com/detail/20260225033140480800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
-          "url": "https://flash.jin10.com/detail/20260225032658019800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -80,9 +47,31 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时40分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
+          "url": "https://flash.jin10.com/detail/20260225041411754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "04时40分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
+          "url": "https://flash.jin10.com/detail/20260225041158111800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -93,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -106,8 +95,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
+        },
+        {
+          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
+          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时40分]"
+        },
+        {
+          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
+          "url": "https://flash.jin10.com/detail/20260225033140480800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时40分]"
+        },
+        {
+          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
+          "url": "https://flash.jin10.com/detail/20260225032658019800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时40分]"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 04时40分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
@@ -146,17 +183,6 @@
           "time_info": "[02时33分 ~ 03时01分]"
         },
         {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时17分]"
-        },
-        {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
           "url": "https://flash.jin10.com/detail/20260225011114735800",
           "source": "金十数据",
@@ -192,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -203,8 +229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -214,8 +240,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -226,8 +252,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -286,11 +312,12 @@
           "url": "https://flash.jin10.com/detail/20260225031610332800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时40分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -317,11 +344,12 @@
           "ranks": [
             12,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         },
         {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
@@ -333,8 +361,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时40分]"
         }
       ]
     },
@@ -350,8 +378,25 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 04时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     }
