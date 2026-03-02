@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-02T22:02:15.771235+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-03-02T22:55:16.652350+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时43分 ~ 22时55分]"
+        },
         {
           "title": "“不得不说，特朗普的计划落空了”",
           "url": "https://news.ifeng.com/c/8rAA4FIm65f",
@@ -16,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时22分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[12时22分 ~ 22时55分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -32,16 +44,17 @@
           "time_info": "[00时26分 ~ 10时01分]"
         },
         {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            5
+            8,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时43分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[17时47分 ~ 22时55分]"
         },
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -53,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时52分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[13时52分 ~ 22时55分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -67,21 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时01分 ~ 22时02分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时47分 ~ 22时02分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 22时55分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时01分 ~ 22时02分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 22时55分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -107,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时52分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[13时52分 ~ 22时55分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -124,8 +124,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时52分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[13时52分 ~ 22时55分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -197,6 +197,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 13时52分]"
+        },
+        {
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 22时55分]"
         },
         {
           "title": "特朗普：基本摧毁伊朗海军总部",
@@ -273,16 +285,15 @@
           "time_info": "10时01分"
         },
         {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "特朗普，还有一仗？",
+          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 22时55分]"
         },
         {
           "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
@@ -394,15 +405,28 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
-          "title": "特朗普，还有一仗？",
-          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
-          "source": "凤凰网",
+          "title": "特朗普称同意与伊朗新领导层对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 22时55分]"
+        },
+        {
+          "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 22时55分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
@@ -453,28 +477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时22分]"
-        },
-        {
-          "title": "特朗普称同意与伊朗新领导层对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
@@ -538,7 +540,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -563,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普将于零点就伊朗问题发表讲话",
+          "url": "https://flash.jin10.com/detail/20260302224008128800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "特朗普：斯塔默在空军基地问题上改变主意花了“太长时间”。",
@@ -653,6 +666,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://wallstreetcn.com/livenews/3061991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
           "url": "https://flash.jin10.com/detail/20260301234818748800",
           "source": "金十数据",
@@ -706,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "特朗普称对英国首相的立场“非常失望”",
+          "url": "https://wallstreetcn.com/livenews/3061985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
@@ -865,7 +900,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -875,8 +910,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时47分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[17时47分 ~ 22时55分]"
         },
         {
           "title": "伊朗危机冲击全球市场：美股三大股指期货均跌0.7%，巴基斯坦触发熔断，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -934,6 +969,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -943,6 +989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "避险资金涌入军工板块 美股国防股盘前暴涨",
@@ -965,6 +1022,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3061974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "现货金银价格回落，美股黄金概念股走势分化，纽蒙特矿业(NEM.N)涨0.53%，科尔黛伦矿业(CDE.N)跌1.8%，泛美白银(PAAS.O)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260302223225321800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
@@ -1073,7 +1152,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
