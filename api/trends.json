@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T20:55:10.470475+08:00",
-  "total_titles_processed": 1935,
+  "generated_at": "2026-03-04T21:58:42.457132+08:00",
+  "total_titles_processed": 2036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 20时55分]"
+          "appearance_count": 18,
+          "time_info": "[09时56分 ~ 21时58分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -59,8 +59,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时45分 ~ 20时55分]"
+          "appearance_count": 29,
+          "time_info": "[00时45分 ~ 21时58分]"
         },
         {
           "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时44分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 21时58分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -96,6 +96,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时56分 ~ 15时38分]"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 21时58分]"
         },
         {
           "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
@@ -125,15 +137,17 @@
           "time_info": "[09时56分 ~ 14时45分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
           "ranks": [
-            10
+            16,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时40分 ~ 20时55分]"
+          "time_info": "[18时35分 ~ 21时58分]"
         },
         {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
@@ -145,19 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 17时40分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时35分 ~ 20时55分]"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -486,7 +487,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -511,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
@@ -541,7 +553,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -901,7 +913,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -912,8 +924,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 20时55分]"
+          "appearance_count": 18,
+          "time_info": "[09时56分 ~ 21时58分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -984,6 +996,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3063688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -1279,7 +1313,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -1302,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "美国2月ADP就业人数公布后，美元指数短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/3063673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美元指数3日上涨",
@@ -1339,8 +1384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 21时58分]"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
