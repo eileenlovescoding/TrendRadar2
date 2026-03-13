@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:31:52.100455+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-03-13T20:56:55.440920+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时58分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时58分 ~ 20时56分]"
         },
         {
           "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
@@ -95,6 +95,17 @@
           "time_info": "[13时48分 ~ 19时31分]"
         },
         {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
           "url": "https://www.cls.cn/detail/2311436",
           "source": "财联社热门",
@@ -107,17 +118,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时58分 ~ 16时38分]"
-        },
-        {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
@@ -148,7 +148,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -211,6 +211,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时27分 ~ 12时16分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -296,18 +320,6 @@
           "time_info": "[09时58分 ~ 13时48分]"
         },
         {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
-        },
-        {
           "title": "伊朗称特朗普几条推文结束不了战争",
           "url": "https://flash.jin10.com/detail/20260313004520116800",
           "source": "金十数据",
@@ -319,15 +331,15 @@
           "time_info": "01时03分"
         },
         {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
           "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "20时56分"
         },
         {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
@@ -358,7 +370,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -391,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -402,7 +414,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -435,7 +447,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -460,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国总统特朗普可决定他希望为实现美国目标而奋斗多久。",
+          "url": "https://flash.jin10.com/detail/20260313203505497800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "伊朗最高安全官员对特朗普表示：我们不会退让。",
@@ -532,8 +555,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 20时56分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
