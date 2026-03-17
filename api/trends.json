@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T10:02:03.761887+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-17T12:26:00.638734+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -64,8 +65,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 12时26分]"
+        },
+        {
+          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -79,19 +96,15 @@
           "time_info": "[00时10分 ~ 04时38分]"
         },
         {
-          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
-          "source": "澎湃新闻",
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            13,
-            10,
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时26分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -114,6 +127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -142,15 +166,16 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
           "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时26分]"
         },
         {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
@@ -162,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时26分]"
         },
         {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
@@ -236,26 +272,27 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时26分]"
         },
         {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -280,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "据Politico：英国广播公司正促请一名联邦法官驳特朗普去年提起的一项诽谤诉讼。在该诉讼中，特朗普指控该机构播出的纪录片歪曲了他在2021年1月6日的言论。",
@@ -409,7 +435,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -692,7 +718,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -713,8 +739,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时26分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 12时26分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -728,16 +766,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
-          "url": "https://www.cls.cn/detail/2314857",
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 10时02分]"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -812,7 +849,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
