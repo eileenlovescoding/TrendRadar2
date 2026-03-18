@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T02:03:02.061532+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-03-19T03:48:29.268351+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -38,19 +38,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
-          "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
-          "url": "https://flash.jin10.com/detail/20260319015210394800",
+          "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260319032336369800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "03时48分"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -60,8 +60,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
+        },
+        {
+          "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
+          "url": "https://flash.jin10.com/detail/20260319015210394800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -71,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -82,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -93,8 +104,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -105,8 +116,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
@@ -115,7 +126,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -174,11 +185,12 @@
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股盘中）",
@@ -216,8 +228,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时48分]"
         }
       ]
     },
@@ -232,7 +244,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
