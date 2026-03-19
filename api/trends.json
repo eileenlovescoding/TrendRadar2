@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T10:06:44.947265+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-19T12:53:41.975805+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 12时53分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -99,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 12时53分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -134,6 +134,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
@@ -183,6 +205,18 @@
           "time_info": "[05时34分 ~ 06时32分]"
         },
         {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 12时53分]"
+        },
+        {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
           "url": "https://www.toutiao.com/trending/7618591739103677988/",
           "source": "今日头条",
@@ -203,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         },
         {
           "title": "知情人士：特朗普仍在权衡地面出兵伊朗风险",
@@ -249,6 +272,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "特朗普的噩梦：鲍威尔不仅不走，还赶上美联储最要命的转折点",
+          "url": "https://flash.jin10.com/detail/20260319122043077800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "市场消息：特朗普离开华盛顿特区，前往特拉华州多佛。",
           "url": "https://flash.jin10.com/detail/20260319003750991800",
           "source": "金十数据",
@@ -271,6 +305,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "欧美同盟裂痕加剧？特朗普施压下，核心盟友集体“翻脸”",
+          "url": "https://flash.jin10.com/detail/20260319120946486800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
           "url": "https://flash.jin10.com/detail/20260319043732835800",
           "source": "金十数据",
@@ -288,6 +333,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时53分]"
+        },
+        {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
@@ -299,18 +356,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 05时34分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 10时06分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
@@ -330,7 +375,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -460,11 +505,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 12时53分]"
         }
       ]
     },
