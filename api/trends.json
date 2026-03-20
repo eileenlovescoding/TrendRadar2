@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:54:47.054496+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-03-20T15:46:05.650612+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时34分 ~ 14时54分]"
+          "appearance_count": 12,
+          "time_info": "[05时34分 ~ 15时46分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时57分 ~ 14时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 15时46分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -98,8 +98,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 15时46分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -113,18 +125,6 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 14时54分]"
-        },
-        {
           "title": "全世界都被特朗普逗笑了，除了高市早苗",
           "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
           "source": "凤凰网",
@@ -132,8 +132,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 14时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 15时46分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -147,17 +158,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时37分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时54分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -466,8 +466,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 14时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 15时46分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -477,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 14时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 15时46分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -765,7 +765,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
