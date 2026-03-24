@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T19:44:42.860035+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-03-24T21:09:53.474550+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时02分 ~ 19时44分]"
+          "appearance_count": 21,
+          "time_info": "[01时02分 ~ 21时09分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时31分 ~ 19时44分]"
+          "appearance_count": 15,
+          "time_info": "[06时31分 ~ 21时09分]"
         },
         {
           "title": "特朗普：美伊过去两天已进行对话",
@@ -101,8 +101,24 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 21时09分]"
+        },
+        {
+          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
+          "url": "https://www.cls.cn/detail/2322532",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时59分 ~ 19时44分]"
+          "time_info": "[12时24分 ~ 21时09分]"
         },
         {
           "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
@@ -130,22 +146,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时31分 ~ 16时53分]"
-        },
-        {
-          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
-          "url": "https://www.cls.cn/detail/2322532",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时44分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -177,6 +177,21 @@
           "time_info": "[01时02分 ~ 19时44分]"
         },
         {
+          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
           "url": "https://m.thepaper.cn/newsDetail_forward_32816091",
           "source": "澎湃新闻",
@@ -185,11 +200,12 @@
             17,
             13,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 19时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 21时09分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美” 已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -222,21 +238,6 @@
             9,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时44分]"
-        },
-        {
-          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -318,6 +319,32 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 21时09分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普称美伊已对话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -341,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普和莫迪就中东局势进行了交谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3075975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美国总统特朗普：我们现在正与伊朗进行非常良好的对话，上周六晚间已开始了磋商。",
@@ -421,31 +459,6 @@
           "time_info": "[13时59分 ~ 16时53分]"
         },
         {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 19时44分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 19时44分]"
-        },
-        {
           "title": "“内塔尼亚胡把特朗普忽悠瘸了，没想到穆杰塔巴更反美”",
           "url": "https://news.ifeng.com/c/8rkdUleaKam",
           "source": "凤凰网",
@@ -518,6 +531,18 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2322947",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 21时09分]"
+        },
+        {
           "title": "3月24日投资避雷针：特朗普称美伊或在5天内达成协议 国际油价跌超10%",
           "url": "https://www.cls.cn/detail/2322297",
           "source": "财联社热门",
@@ -588,18 +613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时55分 ~ 18时52分]"
-        },
-        {
-          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2322947",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时44分]"
         },
         {
           "title": "特朗普设定的最后期限当天 数千名海军陆战队员将抵达中东",
@@ -773,6 +786,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "美国驻印度大使：特朗普总统刚刚与莫迪总理通话。他们讨论了中东的持续局势，包括保持霍尔木兹海峡畅通的重要性。",
+          "url": "https://flash.jin10.com/detail/20260324204446233800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "据天空新闻；以色列安全消息人士表示，要对特朗普关于推迟对伊朗打击的说法“持保留态度”。",
           "url": "https://flash.jin10.com/detail/20260324002935925800",
           "source": "金十数据",
@@ -856,7 +880,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -908,7 +932,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -919,8 +943,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 19时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 21时09分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -999,6 +1023,21 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 21时09分]"
+        },
+        {
           "title": "美股期指金银快速反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -1014,18 +1053,27 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3075976",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
             7,
-            12,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时09分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -1050,18 +1098,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时44分]"
         },
         {
           "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
@@ -1141,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-24）",
+          "url": "https://flash.jin10.com/detail/20260324203812075800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
@@ -1258,8 +1305,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时02分 ~ 19时44分]"
+          "appearance_count": 18,
+          "time_info": "[01时02分 ~ 21时09分]"
         }
       ]
     }
