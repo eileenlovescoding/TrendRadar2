@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:14:08.238782+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-04-11T16:41:40.429100+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时41分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时41分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -68,27 +68,17 @@
           "time_info": "[00时50分 ~ 10时07分]"
         },
         {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 07时34分]"
-        },
-        {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2341138",
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 16时41分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -100,8 +90,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 16时41分]"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 16时41分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -135,17 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时14分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -443,6 +444,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 16时41分]"
+        },
+        {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
           "url": "https://wallstreetcn.com/livenews/3086151",
           "source": "华尔街见闻-快讯",
@@ -518,18 +532,6 @@
           "time_info": "[10时07分 ~ 12时54分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 15时14分]"
-        },
-        {
           "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
           "url": "https://flash.jin10.com/detail/20260411024613347800",
           "source": "金十数据",
@@ -566,7 +568,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -578,8 +580,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -650,6 +652,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 05时37分]"
+        },
+        {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
