@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:02:18.718198+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-04-16T21:27:57.553977+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -120,6 +120,20 @@
           "time_info": "[01时02分 ~ 10时33分]"
         },
         {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 21时27分]"
+        },
+        {
           "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
           "url": "https://www.cls.cn/detail/2345537",
           "source": "财联社热门",
@@ -130,6 +144,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时33分 ~ 15时44分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时27分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -144,28 +169,17 @@
           "time_info": "[01时02分 ~ 06时40分]"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            5
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 19时02分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时27分]"
         },
         {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
@@ -191,16 +205,30 @@
           "time_info": "[06时40分 ~ 07时41分]"
         },
         {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            5
+            9,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 21时27分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时27分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -213,31 +241,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时30分 ~ 15时44分]"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时02分]"
         },
         {
           "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
@@ -271,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "中美就特朗普访华保持着沟通",
@@ -383,6 +397,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "中方回应特朗普称访华不受影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
           "url": "https://flash.jin10.com/detail/20260416001321800800",
           "source": "金十数据",
@@ -444,7 +469,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -452,7 +477,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -489,6 +514,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时41分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-16）",
+          "url": "https://flash.jin10.com/detail/20260416211511289800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
@@ -602,15 +638,37 @@
           "time_info": "[04时46分 ~ 05时52分]"
         },
         {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "纽约梅隆银行第一季度调整后营收54.1亿美元，预期51.8亿美元。 第一季度调整后每股收益2.25美元，预期1.92美元。 纽约梅隆银行美股盘前涨1%。",
           "url": "https://wallstreetcn.com/livenews/3089243",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3089382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -649,7 +707,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -687,6 +745,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "据The Information，谷歌与五角大楼讨论机密人工智能合作协议，洽谈使用Gemini模型，重建与军方关系。",
+          "url": "https://wallstreetcn.com/livenews/3089379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
           "url": "https://www.cls.cn/detail/2345498",
           "source": "财联社热门",
@@ -696,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "据The Information：谷歌(GOOG.O)正与美国国防部洽谈使用Gemini模型。",
+          "url": "https://flash.jin10.com/detail/20260416210648422800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -718,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "据The Information：各方正在商讨一项协议，该协议将允许对谷歌(GOOG.O)的人工智能进行所有合法用途。",
+          "url": "https://flash.jin10.com/detail/20260416210333508800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
@@ -781,7 +872,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
