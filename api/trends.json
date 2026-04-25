@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:38:23.270202+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-04-25T21:02:35.464439+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 21时02分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -80,6 +80,17 @@
           "time_info": "[00时55分 ~ 05时47分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时14分 ~ 21时02分]"
+        },
+        {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
           "url": "https://wallstreetcn.com/articles/3770720",
           "source": "华尔街见闻",
@@ -90,17 +101,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 04时45分]"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 19时38分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -312,6 +312,19 @@
           "time_info": "[04时45分 ~ 07时39分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时02分]"
+        },
+        {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -335,16 +348,16 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            9
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时38分]"
+          "time_info": "[19时38分 ~ 21时02分]"
         },
         {
           "title": "卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势",
@@ -390,17 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
-          "url": "https://flash.jin10.com/detail/20260425182954538800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -582,7 +584,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -803,6 +805,21 @@
           "time_info": "[00时55分 ~ 06时38分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时11分 ~ 21时02分]"
+        },
+        {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2030963929510310856",
           "source": "知乎",
@@ -816,19 +833,15 @@
           "time_info": "[00时55分 ~ 02时50分]"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
+          "title": "DeepSeek V4 Pro全面测评",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            17,
-            15,
-            13,
-            16
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时11分 ~ 19时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -882,6 +895,18 @@
           "time_info": "[16时52分 ~ 19时38分]"
         },
         {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时02分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -905,6 +930,17 @@
           "time_info": "[00时55分 ~ 10时14分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "DeepSeek-V4“解锁”国产芯片",
           "url": "https://www.toutiao.com/trending/7632342182602477065/",
           "source": "今日头条",
@@ -914,17 +950,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        },
-        {
-          "title": "DeepSeekV4 尺度",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
@@ -954,8 +979,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时38分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[06时38分 ~ 21时02分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1097,8 +1122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时11分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时11分 ~ 21时02分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -1248,11 +1273,12 @@
             9,
             11,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时14分 ~ 21时02分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
