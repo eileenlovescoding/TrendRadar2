@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T02:10:06.492985+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-09T04:07:50.085785+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时07分]"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时07分]"
         },
         {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -71,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时07分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -82,8 +82,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时07分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -93,8 +93,32 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时07分]"
+        },
+        {
+          "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3100860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时07分]"
+        },
+        {
+          "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
+          "url": "https://wallstreetcn.com/livenews/3100857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时07分]"
         },
         {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
@@ -119,35 +143,13 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
-          "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3100860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
-          "url": "https://wallstreetcn.com/livenews/3100857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
           "title": "法庭文件显示，特朗普就关税问题最新败诉提起上诉。",
           "url": "https://flash.jin10.com/detail/20260509014529478800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -158,9 +160,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "特朗普：俄乌9日起停火三天并交换战俘",
+          "url": "https://wallstreetcn.com/livenews/3100879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "戴尔(DELL.N)持续走高，涨幅一度扩大至近14%，股价刷新历史新高至262.97美元。此前特朗普在白宫玫瑰园发表讲话时劝观众去买戴尔电脑，说“它们很棒”。",
@@ -169,7 +182,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -180,7 +193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -191,15 +204,76 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美国总统特朗普针对122关税条款的判决结果提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3100873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯与乌克兰之间将停火三天（5月9-11日）。",
+          "url": "https://wallstreetcn.com/livenews/3100872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美国总统特朗普：关于结束这个重大冲突的磋商继续进行。",
+          "url": "https://wallstreetcn.com/livenews/3100871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
+          "url": "https://flash.jin10.com/detail/20260509030041580800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -209,8 +283,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时07分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
+          "url": "https://flash.jin10.com/detail/20260509040234696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（5月8日）纽约尾盘，ICE美元指数跌0.19%，报87.876点，本周累计下跌0.28%，交投区间为98.579-97.625点，整体呈现出M形走势。 彭博美元指数跌0.23%，报1187.73点，本周累跌0.47%，交投区间为1196.97-1184.67点。",
+          "url": "https://wallstreetcn.com/livenews/3100886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     }
