@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T12:16:32.478905+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-05-08T14:59:31.202210+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -41,6 +41,18 @@
           "time_info": "[00时49分 ~ 12时16分]"
         },
         {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 14时59分]"
+        },
+        {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
@@ -51,18 +63,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 08时03分]"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时16分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -83,7 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -94,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -158,6 +158,18 @@
           "time_info": "[07时03分 ~ 08时03分]"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 14时59分]"
+        },
+        {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
@@ -182,6 +194,42 @@
           "time_info": "[07时03分 ~ 08时03分]"
         },
         {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 14时59分]"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 14时59分]"
+        },
+        {
+          "title": "特朗普：美伊停火仍有效",
+          "url": "https://www.cls.cn/detail/2365528",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 14时59分]"
+        },
+        {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
           "url": "https://wallstreetcn.com/livenews/3100233",
           "source": "华尔街见闻-快讯",
@@ -194,15 +242,15 @@
           "time_info": "[07时03分 ~ 08时03分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "14时59分"
         },
         {
           "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
@@ -211,29 +259,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -249,6 +275,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "美法院裁定特朗普的10%全球关税不成立",
           "url": "https://flash.jin10.com/detail/20260508050930126800",
           "source": "金十数据",
@@ -258,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        },
-        {
-          "title": "特朗普：美伊停火仍有效",
-          "url": "https://www.cls.cn/detail/2365528",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "特朗普的10%关税遭遇法律挫折 但裁决不具普遍性",
@@ -489,6 +515,17 @@
           "time_info": "[00时49分 ~ 05时57分]"
         },
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 14时59分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
@@ -499,17 +536,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 12时16分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时16分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
@@ -609,8 +635,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 12时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 14时59分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 14时59分]"
         },
         {
           "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
@@ -619,7 +657,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -633,17 +671,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -713,7 +740,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -730,7 +757,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
