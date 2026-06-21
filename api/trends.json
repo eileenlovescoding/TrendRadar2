@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T12:03:10.037575+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-06-21T16:57:14.153996+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -111,6 +111,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时24分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -252,8 +263,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 16时57分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -294,11 +305,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 16时57分]"
         }
       ]
     }
