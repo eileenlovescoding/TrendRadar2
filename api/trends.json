@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T15:39:28.545975+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-06-24T18:48:15.466515+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时52分 ~ 07时56分]"
+        },
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
@@ -96,7 +107,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -136,6 +147,30 @@
           "time_info": "[01时53分 ~ 04时02分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 18时48分]"
+        },
+        {
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
@@ -152,18 +187,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 15时39分]"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -275,7 +298,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -602,7 +625,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -651,6 +674,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时10分 ~ 11时27分]"
+        },
+        {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "美股",
@@ -816,6 +850,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时55分 ~ 18时48分]"
+        },
+        {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -825,17 +870,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 04时02分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 15时39分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -928,6 +962,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 18时48分]"
+        },
+        {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
@@ -937,17 +983,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 01时53分]"
-        },
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
         }
       ]
     },
