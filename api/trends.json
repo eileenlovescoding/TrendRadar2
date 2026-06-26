@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T15:52:11.427257+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-06-26T18:50:51.167599+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 07时17分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
@@ -171,7 +182,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -279,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 07时17分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-26）",
+          "url": "https://flash.jin10.com/detail/20260626181839754800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
@@ -531,11 +553,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 18时50分]"
         },
         {
           "title": "DeepSeek大规模招聘",
