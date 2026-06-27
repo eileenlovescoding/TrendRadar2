@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T12:53:27.116056+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-06-27T15:49:40.284299+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时49分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -109,6 +110,18 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
+          "title": "伊朗称特朗普不遵守谈判和停火原则",
+          "url": "https://www.toutiao.com/trending/7655588812406407178/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时49分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260627021241822800",
           "source": "金十数据",
@@ -118,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "伊朗称特朗普不遵守谈判和停火原则",
-          "url": "https://www.toutiao.com/trending/7655588812406407178/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "特朗普前国家安全事务助理认罪",
@@ -192,7 +194,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -203,7 +205,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -222,7 +224,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -255,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时49分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -268,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时12分 ~ 12时53分]"
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 15时49分]"
         },
         {
           "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
@@ -291,8 +293,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 15时49分]"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
@@ -307,13 +309,24 @@
           "time_info": "[06时13分 ~ 08时06分]"
         },
         {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
           "url": "https://wallstreetcn.com/articles/3775625",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -354,7 +367,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
@@ -410,7 +423,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -443,9 +456,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
