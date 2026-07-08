@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T12:14:11.828634+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-07-08T15:28:53.742034+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -129,11 +129,12 @@
           "url": "https://www.cls.cn/detail/2419821",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 15时28分]"
         },
         {
           "title": "特朗普说中国威胁论纯属危言耸听",
@@ -175,7 +176,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -189,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "美伊停火协议裂痕扩大 特朗普难以收场",
+          "url": "https://flash.jin10.com/detail/20260708150256432800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "布伦特原油日内涨幅达3.0%，报74.15美元/桶。此前，特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期。",
@@ -219,7 +231,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -286,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 15时28分]"
         },
         {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
@@ -295,11 +307,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 15时28分]"
         },
         {
           "title": "美股",
@@ -394,11 +407,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 12时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 15时28分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -469,7 +483,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -502,7 +516,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -519,7 +533,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -576,11 +590,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 15时28分]"
         },
         {
           "title": "Anthropic：Claude CoWork投放到移动端和网页。",
