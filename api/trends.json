@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:46:15.368703+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-07-17T20:09:04.770914+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 20时09分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时09分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -256,8 +256,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 18时46分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 20时09分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -594,11 +594,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 20时09分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
@@ -618,7 +619,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
