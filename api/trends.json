@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-30T16:23:54.999189+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-07-30T19:07:15.824319+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 28,
       "titles": [
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时04分 ~ 19时07分]"
+        },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时06分 ~ 13时39分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时04分 ~ 16时23分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -60,6 +60,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时06分 ~ 16时23分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 19时07分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -140,17 +152,6 @@
           "time_info": "[02时06分 ~ 07时05分]"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 16时23分]"
-        },
-        {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
           "url": "https://wallstreetcn.com/livenews/3141924",
           "source": "华尔街见闻-快讯",
@@ -161,6 +162,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时05分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时07分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -180,18 +194,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 16时23分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -226,7 +228,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -333,7 +335,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -390,9 +392,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "SK海力士美股盘前转涨，此前一度跌近5%，报道称SK集团会长崔泰源买入3600股SK海力士。",
+          "url": "https://wallstreetcn.com/livenews/3142380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -447,7 +460,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -491,7 +504,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -502,7 +515,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -576,7 +589,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -584,11 +597,23 @@
           "source": "知乎",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 19时07分]"
+        },
+        {
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -600,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
