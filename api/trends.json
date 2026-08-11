@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T13:06:46.372778+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-08-11T15:04:18.796269+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -73,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 15时04分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -102,6 +102,17 @@
           "time_info": "[00时00分 ~ 05时40分]"
         },
         {
+          "title": "美媒：特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
           "url": "https://flash.jin10.com/detail/20260811071100479800",
           "source": "金十数据",
@@ -113,6 +124,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
@@ -120,8 +142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 15时04分]"
         },
         {
           "title": "特朗普要求伊朗赔偿",
@@ -148,6 +170,19 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 15时04分]"
+        },
+        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -157,18 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时00分 ~ 01时00分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时06分]"
         },
         {
           "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
@@ -246,7 +269,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -663,6 +686,20 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时35分 ~ 15时04分]"
+        },
+        {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -674,20 +711,6 @@
           "time_info": "[00时00分 ~ 05时40分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时35分 ~ 13时06分]"
-        },
-        {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -695,8 +718,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 15时04分]"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 15时04分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -709,18 +744,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时35分 ~ 07时34分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 13时06分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -923,6 +946,34 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
+          "url": "https://flash.jin10.com/detail/20260811065651934800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "为什么Claude对子代理这么凶",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88Claude%E5%AF%B9%E5%AD%90%E4%BB%A3%E7%90%86%E8%BF%99%E4%B9%88%E5%87%B6&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -936,23 +987,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 09时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
-          "url": "https://flash.jin10.com/detail/20260811065651934800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
         }
       ]
     }
